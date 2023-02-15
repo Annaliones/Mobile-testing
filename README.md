@@ -1,7 +1,7 @@
 
 <div id="badges" align="center">
   <h1>
-  Mobile testing
+  # Mobile testing
   </h1>
 </div>  
 
